@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">College Admin App</string>
+    <string name="default_notification_channel_id">College Admin App</string>
+</resources>
